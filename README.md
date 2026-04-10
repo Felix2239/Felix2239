@@ -3,7 +3,7 @@
 
 🔭 I'm researching in developing the fullcore system of Post-Quantum Crytography algorithm with the focus on Dilithium and Kyber. 
 
-🔭 I'm also learning German
+🔭 I'm also learning German to prepare my higher education.
 
 ⚡ An odd soul drifting far from the mainstream, defying the world and chasing a dream.
 <!--
