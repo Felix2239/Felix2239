@@ -3,6 +3,8 @@
 
 🔭 I'm researching in developing the fullcore system of Post-Quantum Crytography algorithm with the focus on Dilithium and Kyber. 
 
+🔭 I'm also learning German
+
 ⚡ An odd soul drifting far from the mainstream, defying the world and chasing a dream.
 <!--
 **Felix2239/Felix2239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
