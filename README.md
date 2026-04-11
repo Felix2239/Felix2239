@@ -7,7 +7,7 @@
 
 💻 Languages: C/C++, Bash, Python, Verilog.
 
-⚙ Tools: Linux(Debian, Ubuntu, LinuxMint,...), Vivado, Altium, toolchain for RISC-V, Git.
+⚙ Tools: Linux(Debian, Ubuntu, LinuxMint,...), Vivado, KiCad, EasyEDA, Altium, toolchain for RISC-V, Git.
 
 ⚡ An odd soul drifting far from the mainstream, defying the world and chasing a dream.
 <!--
