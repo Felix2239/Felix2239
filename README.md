@@ -1,7 +1,7 @@
 ## My name is Felix Zephyr and you can call me Felix.
 🌱 I'm currently an undergraduate from University of Information and Technology - VNUHCM, with my major in Integrated Circuit Design. 
 
-🔬 I'm researching in developing the fullcore system of Post-Quantum Crytography algorithm with the focus on Dilithium and Kyber. 
+🔬 I'm doing a research in developing a fullcore system of Post-Quantum Crytography (PQC) algorithm with the focus on CRYSTALS-Dilithium and CRYSTALS-Kyber. 
 
 🔭 I'm eager to learn some foreign languages to prepare for my higher education.
 
